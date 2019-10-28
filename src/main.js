@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-require('@/assets/styles/global.scss')
+// require('@/assets/styles/global.scss')
 
 Vue.config.productionTip = false
 
