@@ -47,7 +47,7 @@ export default {
       tooltip3: 'Really? Totally.',
       isActive: true,
       bla: '0',
-      url: 'https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=',
+      url: 'https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1',
       passUrl: ''
     }
   },
